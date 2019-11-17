@@ -1,4 +1,4 @@
-# DataMiningProjects
+# DataMiningExperiments
 Course Projects of WPI_CS548(Knowledge Discovery and Data Mining)
 
 
