@@ -2,10 +2,14 @@
 Course Projects of WPI_CS548(Knowledge Discovery and Data Mining)
 
 
-* Data Cleaning  
+* Preprocessing
   > Data Source:          https://archive.ics.uci.edu/ml/datasets/Flags 
- 
 
-* Decision Trees, Linear Regression, Model Trees, Regression Trees
+* Classification
   > Data Source:          https://archive.ics.uci.edu/ml/datasets/Census-Income+(KDD)
 
+* Neural Networks
+  > Data Source:          https://archive.ics.uci.edu/ml/datasets/Census-Income+(KDD)
+  
+* Clustering
+  > Data Source:          https://archive.ics.uci.edu/ml/datasets/Census-Income+(KDD)
